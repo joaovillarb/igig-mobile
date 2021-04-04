@@ -1,2 +1,11 @@
-# igig-mobile
-Um aplicativo hospitalar focado unicamente e exclusivamente aos médicos assumirem um plantão, podendo ser expandido para todo setor hospitalar
+# Projeto IGIG - usuarios
+
+Um projeto para seleção de plantões por parte dos médicos
+
+## Time
+	Joao Fagundes Villar Bernardes
+	Matheus de Santa Cruz
+
+# Estrutura do projeto
+
+Ainda não estruturado no readme

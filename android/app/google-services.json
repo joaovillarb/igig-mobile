@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "451508445110",
+    "firebase_url": "https://igig-project-default-rtdb.firebaseio.com",
+    "project_id": "igig-project",
+    "storage_bucket": "igig-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451508445110:android:e84434f814c644e5be6b17",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.igig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451508445110-fhb0eu30f98egd8qcsg0q7pqnls0iho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHxkcMFfR7tksPMpNGp8vRxqJTKJh3eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451508445110-fhb0eu30f98egd8qcsg0q7pqnls0iho2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451508445110:android:bc1e7863552f2493be6b17",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.prototipo_primeira_versao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451508445110-fhb0eu30f98egd8qcsg0q7pqnls0iho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHxkcMFfR7tksPMpNGp8vRxqJTKJh3eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451508445110-fhb0eu30f98egd8qcsg0q7pqnls0iho2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
